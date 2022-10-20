@@ -1,4 +1,1 @@
-## CUSTOM PRINTF FUNCTION
-
-This directory contains printf function code
-
+This directory contains the printf function
